@@ -5,7 +5,7 @@ Compiled Wed 22-Mar-17 08:38 by mmen
 
 ROM: Bootstrap program is IOSv
 
-SWZAVL02ACC002 uptime is 3 days, 19 hours, 18 minutes
+SWZAVL02ACC002 uptime is 4 days, 1 hour, 51 minutes
 System returned to ROM by reload
 System image file is "flash0:/vios_l2-adventerprisek9-m"
 Last reload reason: Unknown reason
